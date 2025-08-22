@@ -5,4 +5,6 @@ https://data.opendatasoft.com/explore/dataset/georef-australia-local-government-
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
 
 
+NOTE: IT IS THE SIMPLIFIED VERSION
+
 credits to the above ^
